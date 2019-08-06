@@ -1,0 +1,669 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\30237fb5cee8a7956f7ff7b04b55f827\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bfe3110ddfbc772d3f82bcc00aef591f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-places:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f7e67b519e493e24922bd6615715d441\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\697ad31395eda1526bc9041b097e4a60\AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\d36a87298464d0f99ca9e4fcac321717\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bfe62d78ef9a0b18aa7230ea82bf8a27\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\a5650731c8c2bad01d448658362d07bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\60eabadf6bb2128e95d3dc5a7ea1acd1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\ef37192ec257de511d3361bb027d4063\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\e00695d61eef5177fe0566109ddea5f0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\35cb008f7330b42cdfe126cd6aa5fedc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7ba1123aeceefaa838e5f2a1cdee92f3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f6177fec7c812eb166791f9b8d3b67e3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\010e1892a481a1cf2e66b54920a72d79\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8d2e3e92102281f14336532661d9ffb5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3d687877cb654e6e2e52efc310b3781d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\87437b0ad4ea597ca456a244575bec51\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b8f5afefec7d5c18aa13b286b0860500\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\856beffe36efb9f1627aa46aa8939583\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\afea9de4fdd219f45a95856fb35e8d4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\699fdde1a301bc3325b0e1f717a2268c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\60ed43e9e95928c49aafce5303f02130\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\023b51361ddacc03030fd4b0c2a9a256\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\1d489069f353281f74d3d7f65719f917\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\e918167bbabbbdabf1f0c6aba29a121c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\36a0056ef2148631aefee769e9c3831f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6e937f3d0b3716e8baf47182ed43a671\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\754f94a8eb5e7a5f08c4f980e8d80a31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8f02bfad5af6e5d61db189ea05c3e663\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\1091bd52363be4fdbccea5edb86c3c2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\854110463c792293dc6e631d37f68a7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\01a1bff0ae3ce7433ebe7ec993c93f3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\148322f42a5f617b7e13957d946c1014\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2bf84eefa5769c978b8a937db51a1861\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\eb60c473ad7abaeb1f67da8cb7b8e462\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fc7a0a8fca755b648e41ae826f24cca6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\ce0a96b5d533baa11b0cda88af25db2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\566fb2460539b415aa1beb09d6da2a66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\25e22eaaa9a6f67a13b7104a056f09e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\5b5c82a69b4fe59e80217f1ddebe4390\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\15744b4234e0cd2999d760998af379d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bed7e013d04838db6aa1b0dbf38ec34c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\909fa17e4df771ccc4c3e64dacb50631\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\723edeb3e7860bb2a738bb3d7d8e8164\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\59a40f916e387a2352b87279a6687a22\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8744cf68134aefa870ac66056b5b3f24\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\9fd42d1c3163ee0f8f064cc053c7e20a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\afbaf9c1d145520ac9abb7ebdf805de7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b10afd923f456ff4f99ed23c7bb99ea9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2525cb14b249baca9f674dff4810123f\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:1-71:12
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:12:5-69:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\30237fb5cee8a7956f7ff7b04b55f827\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\30237fb5cee8a7956f7ff7b04b55f827\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f7e67b519e493e24922bd6615715d441\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f7e67b519e493e24922bd6615715d441\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\697ad31395eda1526bc9041b097e4a60\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\697ad31395eda1526bc9041b097e4a60\AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\d36a87298464d0f99ca9e4fcac321717\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\d36a87298464d0f99ca9e4fcac321717\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bfe62d78ef9a0b18aa7230ea82bf8a27\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bfe62d78ef9a0b18aa7230ea82bf8a27\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\60eabadf6bb2128e95d3dc5a7ea1acd1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\60eabadf6bb2128e95d3dc5a7ea1acd1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\ef37192ec257de511d3361bb027d4063\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\ef37192ec257de511d3361bb027d4063\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\e00695d61eef5177fe0566109ddea5f0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\e00695d61eef5177fe0566109ddea5f0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\35cb008f7330b42cdfe126cd6aa5fedc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\35cb008f7330b42cdfe126cd6aa5fedc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7ba1123aeceefaa838e5f2a1cdee92f3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7ba1123aeceefaa838e5f2a1cdee92f3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f6177fec7c812eb166791f9b8d3b67e3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f6177fec7c812eb166791f9b8d3b67e3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\010e1892a481a1cf2e66b54920a72d79\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\010e1892a481a1cf2e66b54920a72d79\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8d2e3e92102281f14336532661d9ffb5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8d2e3e92102281f14336532661d9ffb5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3d687877cb654e6e2e52efc310b3781d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3d687877cb654e6e2e52efc310b3781d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\87437b0ad4ea597ca456a244575bec51\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\87437b0ad4ea597ca456a244575bec51\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b8f5afefec7d5c18aa13b286b0860500\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b8f5afefec7d5c18aa13b286b0860500\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2bf84eefa5769c978b8a937db51a1861\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2bf84eefa5769c978b8a937db51a1861\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\eb60c473ad7abaeb1f67da8cb7b8e462\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\eb60c473ad7abaeb1f67da8cb7b8e462\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fc7a0a8fca755b648e41ae826f24cca6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fc7a0a8fca755b648e41ae826f24cca6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b10afd923f456ff4f99ed23c7bb99ea9\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b10afd923f456ff4f99ed23c7bb99ea9\AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\eb60c473ad7abaeb1f67da8cb7b8e462\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:16:9-51
+	android:icon
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:18:9-40
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:19:9-87
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:19:61-85
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:19:23-60
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:29:13-58
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:33:9-35:57
+	android:resource
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:34:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:38:9-40:53
+	android:resource
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:40:13-50
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:39:13-84
+activity#ameya.com.maptest.MapsActivity
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:label
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:43:13-41
+receiver#ameya.com.maptest.NotificationReciever
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:47:9-50:20
+	android:process
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:49:13-38
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:48:13-49
+service#ameya.com.maptest.Reciever
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:52:9-54:40
+	android:exported
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:53:13-37
+activity#ameya.com.maptest.Login
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:55:9-58:36
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:55:19-40
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:55:42-58:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:56:9-61
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:56:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:57:9-69
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:57:19-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:57:69-121
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:57:77-118
+activity#ameya.com.maptest.ResetPasswordActivity
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:59:9-59
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:59:19-56
+activity#ameya.com.maptest.SignupActivity
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:60:9-91
+	android:windowSoftInputMode
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:60:50-89
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:60:19-49
+activity#ameya.com.maptest.ProfileActivity
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:61:9-92
+	android:windowSoftInputMode
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:61:51-90
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:61:19-50
+activity#ameya.com.maptest.Help
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:62:9-42
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:62:19-39
+activity#ameya.com.maptest.Qna
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:63:9-41
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:63:19-38
+activity#ameya.com.maptest.Help_home
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:64:9-47
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:64:19-44
+activity#ameya.com.maptest.AskQuest
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:65:9-46
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:65:19-43
+activity#ameya.com.maptest.Payment
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:66:9-84
+	android:windowSoftInputMode
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:66:43-82
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:66:19-42
+activity#ameya.com.maptest.History
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:67:9-45
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:67:19-42
+activity#ameya.com.maptest.Welcome
+ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:68:9-45
+	android:name
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml:68:19-42
+uses-sdk
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\30237fb5cee8a7956f7ff7b04b55f827\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\30237fb5cee8a7956f7ff7b04b55f827\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bfe3110ddfbc772d3f82bcc00aef591f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bfe3110ddfbc772d3f82bcc00aef591f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f7e67b519e493e24922bd6615715d441\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f7e67b519e493e24922bd6615715d441\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\697ad31395eda1526bc9041b097e4a60\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\697ad31395eda1526bc9041b097e4a60\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\d36a87298464d0f99ca9e4fcac321717\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\d36a87298464d0f99ca9e4fcac321717\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bfe62d78ef9a0b18aa7230ea82bf8a27\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bfe62d78ef9a0b18aa7230ea82bf8a27\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\a5650731c8c2bad01d448658362d07bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\a5650731c8c2bad01d448658362d07bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\60eabadf6bb2128e95d3dc5a7ea1acd1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\60eabadf6bb2128e95d3dc5a7ea1acd1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\ef37192ec257de511d3361bb027d4063\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\ef37192ec257de511d3361bb027d4063\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\e00695d61eef5177fe0566109ddea5f0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\e00695d61eef5177fe0566109ddea5f0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\35cb008f7330b42cdfe126cd6aa5fedc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\35cb008f7330b42cdfe126cd6aa5fedc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7ba1123aeceefaa838e5f2a1cdee92f3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7ba1123aeceefaa838e5f2a1cdee92f3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f6177fec7c812eb166791f9b8d3b67e3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\f6177fec7c812eb166791f9b8d3b67e3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\010e1892a481a1cf2e66b54920a72d79\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\010e1892a481a1cf2e66b54920a72d79\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8d2e3e92102281f14336532661d9ffb5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8d2e3e92102281f14336532661d9ffb5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3d687877cb654e6e2e52efc310b3781d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3d687877cb654e6e2e52efc310b3781d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\87437b0ad4ea597ca456a244575bec51\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\87437b0ad4ea597ca456a244575bec51\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b8f5afefec7d5c18aa13b286b0860500\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b8f5afefec7d5c18aa13b286b0860500\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\856beffe36efb9f1627aa46aa8939583\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\856beffe36efb9f1627aa46aa8939583\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\afea9de4fdd219f45a95856fb35e8d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\afea9de4fdd219f45a95856fb35e8d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\699fdde1a301bc3325b0e1f717a2268c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\699fdde1a301bc3325b0e1f717a2268c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\60ed43e9e95928c49aafce5303f02130\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\60ed43e9e95928c49aafce5303f02130\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\023b51361ddacc03030fd4b0c2a9a256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\023b51361ddacc03030fd4b0c2a9a256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\1d489069f353281f74d3d7f65719f917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\1d489069f353281f74d3d7f65719f917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\e918167bbabbbdabf1f0c6aba29a121c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\e918167bbabbbdabf1f0c6aba29a121c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\36a0056ef2148631aefee769e9c3831f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\36a0056ef2148631aefee769e9c3831f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6e937f3d0b3716e8baf47182ed43a671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6e937f3d0b3716e8baf47182ed43a671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\754f94a8eb5e7a5f08c4f980e8d80a31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\754f94a8eb5e7a5f08c4f980e8d80a31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8f02bfad5af6e5d61db189ea05c3e663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8f02bfad5af6e5d61db189ea05c3e663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\1091bd52363be4fdbccea5edb86c3c2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\1091bd52363be4fdbccea5edb86c3c2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\854110463c792293dc6e631d37f68a7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\854110463c792293dc6e631d37f68a7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\01a1bff0ae3ce7433ebe7ec993c93f3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\01a1bff0ae3ce7433ebe7ec993c93f3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\148322f42a5f617b7e13957d946c1014\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\148322f42a5f617b7e13957d946c1014\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2bf84eefa5769c978b8a937db51a1861\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2bf84eefa5769c978b8a937db51a1861\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\eb60c473ad7abaeb1f67da8cb7b8e462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\eb60c473ad7abaeb1f67da8cb7b8e462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fc7a0a8fca755b648e41ae826f24cca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fc7a0a8fca755b648e41ae826f24cca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\ce0a96b5d533baa11b0cda88af25db2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\ce0a96b5d533baa11b0cda88af25db2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\566fb2460539b415aa1beb09d6da2a66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\566fb2460539b415aa1beb09d6da2a66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\25e22eaaa9a6f67a13b7104a056f09e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\25e22eaaa9a6f67a13b7104a056f09e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\5b5c82a69b4fe59e80217f1ddebe4390\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\5b5c82a69b4fe59e80217f1ddebe4390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\15744b4234e0cd2999d760998af379d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\15744b4234e0cd2999d760998af379d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bed7e013d04838db6aa1b0dbf38ec34c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\bed7e013d04838db6aa1b0dbf38ec34c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\909fa17e4df771ccc4c3e64dacb50631\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\909fa17e4df771ccc4c3e64dacb50631\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\723edeb3e7860bb2a738bb3d7d8e8164\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\723edeb3e7860bb2a738bb3d7d8e8164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\59a40f916e387a2352b87279a6687a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\59a40f916e387a2352b87279a6687a22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8744cf68134aefa870ac66056b5b3f24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\8744cf68134aefa870ac66056b5b3f24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\9fd42d1c3163ee0f8f064cc053c7e20a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\9fd42d1c3163ee0f8f064cc053c7e20a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\afbaf9c1d145520ac9abb7ebdf805de7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\afbaf9c1d145520ac9abb7ebdf805de7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b10afd923f456ff4f99ed23c7bb99ea9\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b10afd923f456ff4f99ed23c7bb99ea9\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2525cb14b249baca9f674dff4810123f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2525cb14b249baca9f674dff4810123f\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ameya\OneDrive\Desktop\Maptest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\4a81f0f8655f07a7f83f40b890e9f008\AndroidManifest.xml:28:9-32
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\698037ab2a9da2cd216a200658151ddb\AndroidManifest.xml:9:13-64
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\44db7582232a3f8c77357271102f1f36\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3fd40c0266e3fe8f01e6546d4f23fdb3\AndroidManifest.xml:32:17-107
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c891f44ea975384ed0c00305150e8b62\AndroidManifest.xml:32:25-75
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\6dc4b4436d2d3dab3a4f83e9327c43cc\AndroidManifest.xml:31:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\7d09a215e5e5691cda9a742c848731f0\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3283a1ccfef51c69b69321ab1ca5a8b9\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\183e3e7d78cfd19efa6eedba2fd2b40a\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\c01225d81ac66a9bc0a48d118c69ff7c\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\3382d87347553a7704a6e56ff8ccde0b\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\96c8c405730a43836632b7d1bfeaf75e\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\de50262dd3fbfb55b03d9b8a640054ea\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b8f5afefec7d5c18aa13b286b0860500\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b10afd923f456ff4f99ed23c7bb99ea9\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b10afd923f456ff4f99ed23c7bb99ea9\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b8f5afefec7d5c18aa13b286b0860500\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\b8f5afefec7d5c18aa13b286b0860500\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2bf84eefa5769c978b8a937db51a1861\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\2bf84eefa5769c978b8a937db51a1861\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ameya\.gradle\caches\transforms-2\files-2.1\fe9ec7b0fbddb4cba21e2168c48788e0\AndroidManifest.xml:27:13-51
